@@ -1,7 +1,5 @@
 # TODO
 
-![rsh](./assets/rsh.png)
-
 ## Evil mode
 - [ ] Built in EVIL mode
 - [ ] keychords in normal mode
